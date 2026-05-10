@@ -24,7 +24,7 @@
 
 ### 🐍 Contribution Activity
 
-![github contribution grid snake animation](https://github.com/TAN-JANT/TAN-JANT/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/TAN-JANT/TAN-JANT/output/github-contribution-grid-snake.svg)
 
 ---
 
