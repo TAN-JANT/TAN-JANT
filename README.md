@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAN-JANT&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAN-JANT&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Contact
 
 **LinkedIn:**
