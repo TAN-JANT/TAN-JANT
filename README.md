@@ -18,7 +18,7 @@
 - 🖥️ **[Boron Assembler](https://github.com/TAN-JANT/BORON):** An x86-64 assembler project developed using Python, focusing on low-level operations.
 - 🌐 **[SBCS (Smartboard Communication System)](https://github.com/TAN-JANT/SBCS):** A lightweight communication protocol designed for discovery and data transfer between clients and smartboards.
 - 🐭 **[Micromice & Simulation](https://github.com/TAN-JANT/Micromice_and_simulation):** A maze-solving robot project including a Python-based simulation environment and C algorithms.
-- 🧪 **[Electrochemical Cell Simulation](https://github.com/TAN-JANT/Electrochemical-Cell-Simulation):** A technical simulation for modeling and calculating electrochemical cell behaviors.
+- 🧪 **[Electrochemical Cell Simulation](https://github.com/TAN-JANT/Electrochemical-Cell-Simulation):** A educational simulation for electrochemical cell behaviors. (AYT)
 
 ---
 
